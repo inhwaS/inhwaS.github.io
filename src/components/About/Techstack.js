@@ -3,7 +3,6 @@ import { Col, Row } from "react-bootstrap";
 import {
   DiJavascript1,
   DiReact,
-  DiNodejs,
   DiMongodb,
   DiPython,
   DiGit,
@@ -19,7 +18,6 @@ import {
   SiJenkins,
   SiPostgresql,
 } from "react-icons/si";
-import { TbBrandGolang } from "react-icons/tb";
 
 function Techstack() {
   return (
