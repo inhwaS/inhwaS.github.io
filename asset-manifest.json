@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/my-profile/static/css/main.0ae3e597.css",
-    "main.js": "/my-profile/static/js/main.215de918.js",
-    "static/js/415.73c7b357.chunk.js": "/my-profile/static/js/415.73c7b357.chunk.js",
-    "static/js/787.9077b1c8.chunk.js": "/my-profile/static/js/787.9077b1c8.chunk.js",
-    "static/media/leaf.png": "/my-profile/static/media/leaf.ff2616f664c8c0ceab91.png",
-    "static/media/emotion.png": "/my-profile/static/media/emotion.eabfc16e7a146ab15778.png",
-    "static/media/suicide.png": "/my-profile/static/media/suicide.9c86cd7138a398c45fa5.png",
-    "static/media/codeEditor.png": "/my-profile/static/media/codeEditor.1b585492490c8c1cace9.png",
-    "static/media/blog.png": "/my-profile/static/media/blog.fb8ab7f271a937d5fc01.png",
-    "static/media/avatar.png": "/my-profile/static/media/avatar.e0e29438421cdd0ae434.png",
-    "static/media/home-main.png": "/my-profile/static/media/home-main.1eaec0132fc7e9178ac2.png",
-    "static/media/Inhwa Son.pdf": "/my-profile/static/media/Inhwa Son.ffd7be04357165a9cac9.pdf",
-    "static/media/about.png": "/my-profile/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/chatify.png": "/my-profile/static/media/chatify.7206044e0b5cdad44726.png",
-    "static/media/home-bg.jpg": "/my-profile/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/pre.svg": "/my-profile/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/my-profile/index.html",
-    "main.0ae3e597.css.map": "/my-profile/static/css/main.0ae3e597.css.map",
-    "main.215de918.js.map": "/my-profile/static/js/main.215de918.js.map",
-    "415.73c7b357.chunk.js.map": "/my-profile/static/js/415.73c7b357.chunk.js.map",
-    "787.9077b1c8.chunk.js.map": "/my-profile/static/js/787.9077b1c8.chunk.js.map"
+    "main.css": "/static/css/main.18c476ba.css",
+    "main.js": "/static/js/main.6da77730.js",
+    "static/js/415.73c7b357.chunk.js": "/static/js/415.73c7b357.chunk.js",
+    "static/js/787.9077b1c8.chunk.js": "/static/js/787.9077b1c8.chunk.js",
+    "static/media/leaf.png": "/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/avatar.png": "/static/media/avatar.e0e29438421cdd0ae434.png",
+    "static/media/home-main.png": "/static/media/home-main.1eaec0132fc7e9178ac2.png",
+    "static/media/Inhwa Son.pdf": "/static/media/Inhwa Son.ffd7be04357165a9cac9.pdf",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.18c476ba.css.map": "/static/css/main.18c476ba.css.map",
+    "main.6da77730.js.map": "/static/js/main.6da77730.js.map",
+    "415.73c7b357.chunk.js.map": "/static/js/415.73c7b357.chunk.js.map",
+    "787.9077b1c8.chunk.js.map": "/static/js/787.9077b1c8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ae3e597.css",
-    "static/js/main.215de918.js"
+    "static/css/main.18c476ba.css",
+    "static/js/main.6da77730.js"
   ]
 }
