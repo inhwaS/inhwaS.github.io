@@ -2,12 +2,9 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
-import emotion from "../../Assets/Projects/emotion.png";
-import editor from "../../Assets/Projects/codeEditor.png";
-import chatify from "../../Assets/Projects/chatify.png";
-import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
+import deardiary from "../../Assets/Projects/deardiary.png";
+import flextra from "../../Assets/Projects/flextra.png";
+import audiosensai from "../../Assets/Projects/audiosensai.png";
 
 function Projects() {
   return (
@@ -23,34 +20,32 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={deardiary}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              title="Dear Diary"
+              description="This web application is specifically designed for couples, providing them with a private platform to maintain a shared diary. By using Google APIs, users can log in with Google authentication, and automated emails are sent to commemorate their 100th day or 1st-year anniversaries."
+              ghLink="https://github.com/inhwaS/dear-diary"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              imgPath={audiosensai}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              title="AudioSensAI"
+              description="Our team created an audio analyzer that utilizes AI to generate a relevant video with voiceover and subtitles. Our aim was to enhance education for individuals with visual impairments and to turn boring audio recordings into interesting videos."
+              ghLink="https://github.com/inhwaS/shiba"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={editor}
+              imgPath={flextra}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              title="Flextra"
+              description="“Connect students to extra Community Garden produce.” Our problem is food waste and scarcity. Our solution is a platform that shows students the extra produce in a platform. This will be executed by making a website/app and finding a student employee."
+              ghLink="https://docs.google.com/presentation/d/15BpmXhfg6psVKQ07C1ZyrBUupc458zQaa6yVfFSgPGQ/edit#slide=id.p"
+              demoLink="https://previewer.adalo.com/29c3330b-3ee6-45fe-963c-4437936ae952"              
             />
           </Col>
 
