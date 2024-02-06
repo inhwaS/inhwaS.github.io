@@ -18,26 +18,28 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            The moment I became fascinated with software engineering was when I saw the ideas in my head come to life through code. 
+            The moment I became fascinated with software engineering was when I saw 
+            <b className="purple">
+                  {" "}the ideas in my head come to life through code. </b>
               <br />
               <br />I used to study 
               <i>
-                <b className="purple"> French Language and Literature in South Korea, </b>
+                <b className="purple"> French Language and Literature</b>
               </i>
-              and now, I study Master's of science in &nbsp;
+              &nbsp; in South Korea, and now, I study Master's of science in &nbsp;
               <i>
                 <b className="purple">Computer Science</b> in the University of San Francisco.
               </i>
               <br />
               <br />
-              My journey as a student and budding software engineer is ongoing, 
+              My journey as a student and software engineer is ongoing, 
               and I aspire to become someone who can make a significant impact on the industry, 
               bringing 
               <i>
                 <b className="purple">
                   {" "}
-                  diversity diversity and innovation to the forefront.
-                </b>
+                  diversity and innovation
+                </b> to the forefront.
               </i>
             </p>
           </Col>
