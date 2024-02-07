@@ -24,5 +24,9 @@ jobs:
           NODE_ENV: production
 
       - name: Deploy to GH Pages 🚀
-        run: yarn run deploy
+        if: ${{ github.event_name != 'pull_request' }}
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
         
