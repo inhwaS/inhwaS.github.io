@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/my-profile/static/css/main.0ae3e597.css",
+    "main.js": "/my-profile/static/js/main.fb4705fb.js",
+    "static/js/415.73c7b357.chunk.js": "/my-profile/static/js/415.73c7b357.chunk.js",
+    "static/js/787.9077b1c8.chunk.js": "/my-profile/static/js/787.9077b1c8.chunk.js",
+    "static/media/audiosensai.png": "/my-profile/static/media/audiosensai.72ebea1c2257e6a2a176.png",
+    "static/media/flextra.png": "/my-profile/static/media/flextra.e5fb84790ae3db79e081.png",
+    "static/media/avatar.png": "/my-profile/static/media/avatar.e0e29438421cdd0ae434.png",
+    "static/media/home-main.png": "/my-profile/static/media/home-main.1eaec0132fc7e9178ac2.png",
+    "static/media/Inhwa Son.pdf": "/my-profile/static/media/Inhwa Son.ffd7be04357165a9cac9.pdf",
+    "static/media/about.png": "/my-profile/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/deardiary.png": "/my-profile/static/media/deardiary.fa8ac1487fa3ec1baf30.png",
+    "static/media/home-bg.jpg": "/my-profile/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/my-profile/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/my-profile/index.html",
+    "main.0ae3e597.css.map": "/my-profile/static/css/main.0ae3e597.css.map",
+    "main.fb4705fb.js.map": "/my-profile/static/js/main.fb4705fb.js.map",
+    "415.73c7b357.chunk.js.map": "/my-profile/static/js/415.73c7b357.chunk.js.map",
+    "787.9077b1c8.chunk.js.map": "/my-profile/static/js/787.9077b1c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ae3e597.css",
+    "static/js/main.fb4705fb.js"
+  ]
+}
